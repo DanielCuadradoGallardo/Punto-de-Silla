@@ -1,0 +1,14 @@
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\bin\Debug\net6.0\PuntoDeSilla.exe
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\bin\Debug\net6.0\PuntoDeSilla.deps.json
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\bin\Debug\net6.0\PuntoDeSilla.runtimeconfig.json
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\bin\Debug\net6.0\PuntoDeSilla.dll
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\bin\Debug\net6.0\PuntoDeSilla.pdb
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\obj\Debug\net6.0\PuntoDeSilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\obj\Debug\net6.0\PuntoDeSilla.AssemblyInfoInputs.cache
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\obj\Debug\net6.0\PuntoDeSilla.AssemblyInfo.cs
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\obj\Debug\net6.0\PuntoDeSilla.csproj.CoreCompileInputs.cache
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\obj\Debug\net6.0\PuntoDeSilla.dll
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\obj\Debug\net6.0\refint\PuntoDeSilla.dll
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\obj\Debug\net6.0\PuntoDeSilla.pdb
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\obj\Debug\net6.0\PuntoDeSilla.genruntimeconfig.cache
+C:\Users\dam\source\repos\PuntoDeSilla\PuntoDeSilla\obj\Debug\net6.0\ref\PuntoDeSilla.dll
